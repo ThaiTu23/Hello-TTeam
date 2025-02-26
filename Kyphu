@@ -62,11 +62,11 @@
         <table>
             <tr>
                 <th>Họ và tên</th>
-                <td>Trần Thái Tú</td>
+                <td>Phạm Kỳ Phú</td>
             </tr>
             <tr>
                 <th>Ngày sinh</th>
-                <td>23/12/2004</td>
+                <td>10/04/2005</td>
             </tr>
             <tr>
                 <th>Giới tính</th>
@@ -74,11 +74,11 @@
             </tr>
             <tr>
                 <th>Email</th>
-                <td>thaitu123654@gmail.com</td>
+                <td>phuytb0203@gmail.com</td>
             </tr>
             <tr>
                 <th>Số điện thoại</th>
-                <td>0704861178</td>
+                <td>0975231045</td>
             </tr>
             <tr>
                 <th>Địa chỉ</th>
@@ -97,6 +97,7 @@
                 <li>Nghe nhạc và xem phim</li>
             </ul>
         </div>
+
     </div>
 
 </body>
